@@ -1,4 +1,3 @@
 # docker-with-compose
 
-The docker docker image with added docker-compose.
-
+The officail Docker image with added Docker-Compose.
